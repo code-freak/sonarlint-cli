@@ -1,0 +1,947 @@
+[
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/CodeFreakApplication.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/util/TarUtil.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/service/LatexService.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/service/EntityNotFoundException.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/service/BaseService.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/service/TaskService.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/repository/RequirementRepository.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/repository/TaskEvaluationResultRepository.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/repository/SubmissionRepository.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/repository/UserRepository.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/repository/AssignmentRepository.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/repository/AnswerRepository.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/repository/ClassroomRepository.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/repository/TaskRepository.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/config/GitInfoConfiguration.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/config/DockerConfiguration.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/config/AppConfiguration.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/config/FrontendConfiguration.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/config/LatexConfiguration.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/config/SecurityConfiguration.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/entity/Task.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/entity/Assignment.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/entity/User.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/entity/Answer.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/entity/Classroom.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/entity/Evaluation.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/entity/BaseEntity.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/frontend/BaseController.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/frontend/HomeController.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/frontend/ExceptionHandlerAdvice.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/frontend/MarkdownParser.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/init/SeedDatabase.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/init/DiskImport.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/test/kotlin/de/code_freak/codefreak/SpringTest.kt",
+        []
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/service/ContainerService.kt",
+        [
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 240,
+                            "character": 13
+                        },
+                        "end": {
+                            "line": 240,
+                            "character": 17
+                        }
+                    },
+                    "severity": 4,
+                    "code": "kotlin:S1135",
+                    "source": "sonarlint",
+                    "message": "Complete the task associated to this TODO comment. (kotlin:S1135)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S1135",
+                    "Track uses of \"TODO\" tags",
+                    "<p><code>TODO</code> tags are commonly used to mark places where some more code is required, but which the developer wants to implement later.</p>\n<p>Sometimes the developer will not have the time or will simply forget to get back to that tag.</p>\n<p>This rule is meant to track those tags and to ensure that they do not go unnoticed.</p>\n<h2>Noncompliant Code Example</h2>\n<pre>\nfun doSomething() {\n  // TODO\n}\n</pre>\n<h2>See</h2>\n<ul>\n  <li> <a href=\"http://cwe.mitre.org/data/definitions/546.html\">MITRE, CWE-546</a> - Suspicious Comment </li>\n</ul>",
+                    "CODE_SMELL",
+                    "INFO"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 240,
+                            "character": 13
+                        },
+                        "end": {
+                            "line": 240,
+                            "character": 17
+                        }
+                    },
+                    "severity": 4,
+                    "code": "kotlin:S1135",
+                    "source": "sonarlint",
+                    "message": "Complete the task associated to this TODO comment. (kotlin:S1135)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S1135",
+                    "Track uses of \"TODO\" tags",
+                    "<p><code>TODO</code> tags are commonly used to mark places where some more code is required, but which the developer wants to implement later.</p>\n<p>Sometimes the developer will not have the time or will simply forget to get back to that tag.</p>\n<p>This rule is meant to track those tags and to ensure that they do not go unnoticed.</p>\n<h2>Noncompliant Code Example</h2>\n<pre>\nfun doSomething() {\n  // TODO\n}\n</pre>\n<h2>See</h2>\n<ul>\n  <li> <a href=\"http://cwe.mitre.org/data/definitions/546.html\">MITRE, CWE-546</a> - Suspicious Comment </li>\n</ul>",
+                    "CODE_SMELL",
+                    "INFO"
+                ]
+            ]
+        ]
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/service/AssignmentService.kt",
+        [
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 42,
+                            "character": 7
+                        },
+                        "end": {
+                            "line": 42,
+                            "character": 11
+                        }
+                    },
+                    "severity": 4,
+                    "code": "kotlin:S1135",
+                    "source": "sonarlint",
+                    "message": "Complete the task associated to this TODO comment. (kotlin:S1135)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S1135",
+                    "Track uses of \"TODO\" tags",
+                    "<p><code>TODO</code> tags are commonly used to mark places where some more code is required, but which the developer wants to implement later.</p>\n<p>Sometimes the developer will not have the time or will simply forget to get back to that tag.</p>\n<p>This rule is meant to track those tags and to ensure that they do not go unnoticed.</p>\n<h2>Noncompliant Code Example</h2>\n<pre>\nfun doSomething() {\n  // TODO\n}\n</pre>\n<h2>See</h2>\n<ul>\n  <li> <a href=\"http://cwe.mitre.org/data/definitions/546.html\">MITRE, CWE-546</a> - Suspicious Comment </li>\n</ul>",
+                    "CODE_SMELL",
+                    "INFO"
+                ]
+            ]
+        ]
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/entity/Requirement.kt",
+        [
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 19,
+                            "character": 5
+                        },
+                        "end": {
+                            "line": 19,
+                            "character": 9
+                        }
+                    },
+                    "severity": 4,
+                    "code": "kotlin:S1135",
+                    "source": "sonarlint",
+                    "message": "Complete the task associated to this TODO comment. (kotlin:S1135)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S1135",
+                    "Track uses of \"TODO\" tags",
+                    "<p><code>TODO</code> tags are commonly used to mark places where some more code is required, but which the developer wants to implement later.</p>\n<p>Sometimes the developer will not have the time or will simply forget to get back to that tag.</p>\n<p>This rule is meant to track those tags and to ensure that they do not go unnoticed.</p>\n<h2>Noncompliant Code Example</h2>\n<pre>\nfun doSomething() {\n  // TODO\n}\n</pre>\n<h2>See</h2>\n<ul>\n  <li> <a href=\"http://cwe.mitre.org/data/definitions/546.html\">MITRE, CWE-546</a> - Suspicious Comment </li>\n</ul>",
+                    "CODE_SMELL",
+                    "INFO"
+                ]
+            ]
+        ]
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/entity/Submission.kt",
+        [
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 11,
+                            "character": 5
+                        },
+                        "end": {
+                            "line": 11,
+                            "character": 9
+                        }
+                    },
+                    "severity": 4,
+                    "code": "kotlin:S1135",
+                    "source": "sonarlint",
+                    "message": "Complete the task associated to this TODO comment. (kotlin:S1135)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S1135",
+                    "Track uses of \"TODO\" tags",
+                    "<p><code>TODO</code> tags are commonly used to mark places where some more code is required, but which the developer wants to implement later.</p>\n<p>Sometimes the developer will not have the time or will simply forget to get back to that tag.</p>\n<p>This rule is meant to track those tags and to ensure that they do not go unnoticed.</p>\n<h2>Noncompliant Code Example</h2>\n<pre>\nfun doSomething() {\n  // TODO\n}\n</pre>\n<h2>See</h2>\n<ul>\n  <li> <a href=\"http://cwe.mitre.org/data/definitions/546.html\">MITRE, CWE-546</a> - Suspicious Comment </li>\n</ul>",
+                    "CODE_SMELL",
+                    "INFO"
+                ]
+            ]
+        ]
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/main/kotlin/de/code_freak/codefreak/frontend/AssignmentController.kt",
+        [
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 117,
+                            "character": 7
+                        },
+                        "end": {
+                            "line": 117,
+                            "character": 11
+                        }
+                    },
+                    "severity": 4,
+                    "code": "kotlin:S1135",
+                    "source": "sonarlint",
+                    "message": "Complete the task associated to this TODO comment. (kotlin:S1135)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S1135",
+                    "Track uses of \"TODO\" tags",
+                    "<p><code>TODO</code> tags are commonly used to mark places where some more code is required, but which the developer wants to implement later.</p>\n<p>Sometimes the developer will not have the time or will simply forget to get back to that tag.</p>\n<p>This rule is meant to track those tags and to ensure that they do not go unnoticed.</p>\n<h2>Noncompliant Code Example</h2>\n<pre>\nfun doSomething() {\n  // TODO\n}\n</pre>\n<h2>See</h2>\n<ul>\n  <li> <a href=\"http://cwe.mitre.org/data/definitions/546.html\">MITRE, CWE-546</a> - Suspicious Comment </li>\n</ul>",
+                    "CODE_SMELL",
+                    "INFO"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 117,
+                            "character": 7
+                        },
+                        "end": {
+                            "line": 117,
+                            "character": 11
+                        }
+                    },
+                    "severity": 4,
+                    "code": "kotlin:S1135",
+                    "source": "sonarlint",
+                    "message": "Complete the task associated to this TODO comment. (kotlin:S1135)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S1192",
+                    "String literals should not be duplicated",
+                    "<p>Duplicated string literals make the process of refactoring error-prone, since you must be sure to update all occurrences.</p>\n<p>On the other hand, constants can be referenced from many places, but only need to be updated in a single place.</p>\n<h2>Noncompliant Code Example</h2>\n<p>With the default threshold of 3:</p>\n<pre>\nclass A {\n    fun run() {\n        prepare(\"string literal\")    // Noncompliant - \"string literal\" is duplicated 3 times\n        execute(\"string literal\")\n        release(\"string literal\")\n    }\n\n    fun method() {\n        println(\"'\")                 // Compliant - literal \"'\" has less than 5 characters and is excluded\n        println(\"'\")\n        println(\"'\")\n    }\n}\n</pre>\n<h2>Compliant Solution</h2>\n<pre>\nclass A {\n    companion object {\n        const val CONSTANT = \"string literal\"\n    }\n\n    fun run() {\n        prepare(CONSTANT)    // Compliant\n        execute(CONSTANT)\n        release(CONSTANT)\n    }\n}\n</pre>\n<h2>Exceptions</h2>\n<p>To prevent generating some false-positives, literals having 5 or less characters are excluded as well as literals containing only letters, digits\nand '_'.</p>",
+                    "CODE_SMELL",
+                    "CRITICAL"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 117,
+                            "character": 7
+                        },
+                        "end": {
+                            "line": 117,
+                            "character": 11
+                        }
+                    },
+                    "severity": 4,
+                    "code": "kotlin:S1135",
+                    "source": "sonarlint",
+                    "message": "Complete the task associated to this TODO comment. (kotlin:S1135)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S1192",
+                    "String literals should not be duplicated",
+                    "<p>Duplicated string literals make the process of refactoring error-prone, since you must be sure to update all occurrences.</p>\n<p>On the other hand, constants can be referenced from many places, but only need to be updated in a single place.</p>\n<h2>Noncompliant Code Example</h2>\n<p>With the default threshold of 3:</p>\n<pre>\nclass A {\n    fun run() {\n        prepare(\"string literal\")    // Noncompliant - \"string literal\" is duplicated 3 times\n        execute(\"string literal\")\n        release(\"string literal\")\n    }\n\n    fun method() {\n        println(\"'\")                 // Compliant - literal \"'\" has less than 5 characters and is excluded\n        println(\"'\")\n        println(\"'\")\n    }\n}\n</pre>\n<h2>Compliant Solution</h2>\n<pre>\nclass A {\n    companion object {\n        const val CONSTANT = \"string literal\"\n    }\n\n    fun run() {\n        prepare(CONSTANT)    // Compliant\n        execute(CONSTANT)\n        release(CONSTANT)\n    }\n}\n</pre>\n<h2>Exceptions</h2>\n<p>To prevent generating some false-positives, literals having 5 or less characters are excluded as well as literals containing only letters, digits\nand '_'.</p>",
+                    "CODE_SMELL",
+                    "CRITICAL"
+                ]
+            ]
+        ]
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/test/kotlin/de/code_freak/codefreak/CodeFreakApplicationTests.kt",
+        [
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 7,
+                            "character": 21
+                        },
+                        "end": {
+                            "line": 8,
+                            "character": 3
+                        }
+                    },
+                    "severity": 1,
+                    "code": "kotlin:S1186",
+                    "source": "sonarlint",
+                    "message": "Add a nested comment explaining why this function is empty or complete the implementation. (kotlin:S1186)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S1186",
+                    "Functions should not be empty",
+                    "<p>There are several reasons for a function not to have a function body:</p>\n<ul>\n  <li> It is an unintentional omission, and should be fixed to prevent an unexpected behavior in production. </li>\n  <li> It is not yet, or never will be, supported. In this case an exception should be thrown. </li>\n  <li> The function is an intentionally-blank override. In this case a nested comment should explain the reason for the blank override. </li>\n</ul>",
+                    "CODE_SMELL",
+                    "CRITICAL"
+                ]
+            ]
+        ]
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/test/kotlin/de/code_freak/codefreak/util/TarUtilTest.kt",
+        [
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 22,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 22,
+                            "character": 40
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"tar persists execute permissions\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 22,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 22,
+                            "character": 40
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"tar persists execute permissions\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ]
+        ]
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/test/kotlin/de/code_freak/codefreak/service/AssignmentServiceTest.kt",
+        [
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 77,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 77,
+                            "character": 44
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"findSubmission throws for no results\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 77,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 77,
+                            "character": 44
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"findSubmission throws for no results\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 77,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 77,
+                            "character": 44
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"findSubmission throws for no results\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 77,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 77,
+                            "character": 44
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"findSubmission throws for no results\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ]
+        ]
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/test/kotlin/de/code_freak/codefreak/service/ContainerServiceTest.kt",
+        [
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 96,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 96,
+                            "character": 51
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"idle containers are shut down automatically\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S1192",
+                    "String literals should not be duplicated",
+                    "<p>Duplicated string literals make the process of refactoring error-prone, since you must be sure to update all occurrences.</p>\n<p>On the other hand, constants can be referenced from many places, but only need to be updated in a single place.</p>\n<h2>Noncompliant Code Example</h2>\n<p>With the default threshold of 3:</p>\n<pre>\nclass A {\n    fun run() {\n        prepare(\"string literal\")    // Noncompliant - \"string literal\" is duplicated 3 times\n        execute(\"string literal\")\n        release(\"string literal\")\n    }\n\n    fun method() {\n        println(\"'\")                 // Compliant - literal \"'\" has less than 5 characters and is excluded\n        println(\"'\")\n        println(\"'\")\n    }\n}\n</pre>\n<h2>Compliant Solution</h2>\n<pre>\nclass A {\n    companion object {\n        const val CONSTANT = \"string literal\"\n    }\n\n    fun run() {\n        prepare(CONSTANT)    // Compliant\n        execute(CONSTANT)\n        release(CONSTANT)\n    }\n}\n</pre>\n<h2>Exceptions</h2>\n<p>To prevent generating some false-positives, literals having 5 or less characters are excluded as well as literals containing only letters, digits\nand '_'.</p>",
+                    "CODE_SMELL",
+                    "CRITICAL"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 96,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 96,
+                            "character": 51
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"idle containers are shut down automatically\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S1192",
+                    "String literals should not be duplicated",
+                    "<p>Duplicated string literals make the process of refactoring error-prone, since you must be sure to update all occurrences.</p>\n<p>On the other hand, constants can be referenced from many places, but only need to be updated in a single place.</p>\n<h2>Noncompliant Code Example</h2>\n<p>With the default threshold of 3:</p>\n<pre>\nclass A {\n    fun run() {\n        prepare(\"string literal\")    // Noncompliant - \"string literal\" is duplicated 3 times\n        execute(\"string literal\")\n        release(\"string literal\")\n    }\n\n    fun method() {\n        println(\"'\")                 // Compliant - literal \"'\" has less than 5 characters and is excluded\n        println(\"'\")\n        println(\"'\")\n    }\n}\n</pre>\n<h2>Compliant Solution</h2>\n<pre>\nclass A {\n    companion object {\n        const val CONSTANT = \"string literal\"\n    }\n\n    fun run() {\n        prepare(CONSTANT)    // Compliant\n        execute(CONSTANT)\n        release(CONSTANT)\n    }\n}\n</pre>\n<h2>Exceptions</h2>\n<p>To prevent generating some false-positives, literals having 5 or less characters are excluded as well as literals containing only letters, digits\nand '_'.</p>",
+                    "CODE_SMELL",
+                    "CRITICAL"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 96,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 96,
+                            "character": 51
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"idle containers are shut down automatically\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 96,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 96,
+                            "character": 51
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"idle containers are shut down automatically\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 96,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 96,
+                            "character": 51
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"idle containers are shut down automatically\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 96,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 96,
+                            "character": 51
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"idle containers are shut down automatically\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 96,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 96,
+                            "character": 51
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"idle containers are shut down automatically\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 96,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 96,
+                            "character": 51
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"idle containers are shut down automatically\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ]
+        ]
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/test/kotlin/de/code_freak/codefreak/entity/BaseEntityTest.kt",
+        [
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 41,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 41,
+                            "character": 39
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"entities with same id are equal\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 41,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 41,
+                            "character": 39
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"entities with same id are equal\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 41,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 41,
+                            "character": 39
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"entities with same id are equal\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 41,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 41,
+                            "character": 39
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"entities with same id are equal\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ],
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 41,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 41,
+                            "character": 39
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"entities with same id are equal\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ]
+        ]
+    ],
+    [
+        "file:///home/hkasch/PycharmProjects/sonarlint-cli-test/test-code/src/test/kotlin/de/code_freak/codefreak/init/SeedDatabaseTest.kt",
+        [
+            [
+                {
+                    "range": {
+                        "start": {
+                            "line": 18,
+                            "character": 6
+                        },
+                        "end": {
+                            "line": 18,
+                            "character": 48
+                        }
+                    },
+                    "severity": 3,
+                    "code": "kotlin:S100",
+                    "source": "sonarlint",
+                    "message": "Rename function \"seed database is executed in dev profile\" to match the regular expression ^[a-z][a-zA-Z0-9]*$ (kotlin:S100)",
+                    "relatedInformation": []
+                },
+                [
+                    "kotlin:S100",
+                    "Method names should comply with a naming convention",
+                    "<p>Shared naming conventions allow teams to collaborate efficiently. This rule checks that all function names match a provided regular expression.</p>",
+                    "CODE_SMELL",
+                    "MINOR"
+                ]
+            ]
+        ]
+    ]
+]
